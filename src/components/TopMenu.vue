@@ -44,10 +44,10 @@ onUnmounted(() => {
             <input
               class="form-control me-2"
               type="search"
-              placeholder="Search"
+              placeholder="Поиск"
               aria-label="Search"
             />
-            <button class="btn btn-outline-success d-none" type="submit">Поиск</button>
+            <!-- <button class="btn btn-outline-success d-none" type="submit">Поиск</button> -->
           </form>
 
           <div class="navbar-text ms-auto">
