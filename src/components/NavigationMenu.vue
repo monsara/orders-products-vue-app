@@ -27,7 +27,7 @@
         </RouterLink>
       </li>
       <li class="nav-item mb-3">
-        <a href="" class="nav-link text-secondary fw-bold">Группы</a>
+        <a href="#" class="nav-link text-secondary fw-bold">Группы</a>
       </li>
       <li class="nav-item mb-3">
         <RouterLink
@@ -39,10 +39,10 @@
         </RouterLink>
       </li>
       <li class="nav-item mb-3">
-        <a href="" class="nav-link text-secondary fw-bold">Пользователи</a>
+        <a href="#" class="nav-link text-secondary fw-bold">Пользователи</a>
       </li>
       <li class="nav-item">
-        <a href="" class="nav-link text-secondary fw-bold">Настройки</a>
+        <a href="#" class="nav-link text-secondary fw-bold">Настройки</a>
       </li>
     </ul>
   </aside>
