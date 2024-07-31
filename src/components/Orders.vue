@@ -55,7 +55,7 @@ const hideModal = () => {
 onMounted(() => {
   myModal = new Modal('#confirmDeleteModal', {})
 
-  const sectionContainer = document.querySelector('section.container')
+  const sectionContainer = document.querySelector('section')
 
   // Create an observer to watch for changes in the body
   const observer = new MutationObserver((mutations) => {

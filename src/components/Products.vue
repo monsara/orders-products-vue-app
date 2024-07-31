@@ -41,7 +41,7 @@ const getOrderForProduct = (productId) => store.getters['products/getOrderForPro
       </div>
 
       <div class="d-flex align-items-center gap-3">
-        <label for="specSelect" class="form-label mb-0">Тип:</label>
+        <label for="specSelect" class="form-label mb-0">Спецификация:</label>
         <select
           id="specSelect"
           class="form-select"
